@@ -679,3 +679,249 @@ html,body{
     
     
   }
+
+
+
+
+
+
+
+
+
+
+  @media (max-width:768px){
+    body{
+      margin: 0px;
+      padding: 0px;
+      overflow-x:hidden ;
+    }
+    .container1{
+      width: 100%;
+      height:auto;
+    }
+    .contact-button{
+      margin-top: 20px;
+      margin-left: 2px;
+      width: 100%;
+      height: 50px;
+      margin-bottom: 20px;
+      border-radius: 0px;
+      background-color: #09ff00;
+    }
+    .myimg{
+      width: 95%;
+      height: auto;
+      margin: 0px;
+      margin-top: 9px;
+
+    }
+    .container1-div1{
+      margin-left: 0px;
+
+    }
+    .container1-div1-p1{
+      text-align: center;
+      font-size: 40px;
+     
+    }
+    .container1-div1-p2{
+      font-size: 30px;
+      text-align: center;
+      
+    }
+    .container1-div1-p2-name{
+      font-size: 35px;
+    }
+    .container1-div1-p3{
+      font-size: 30px;
+      text-align: center;
+      margin: 3px;
+    }
+    .container1-div1-button{
+      width: 100%;
+      height: auto;
+    }
+    .container1-innercontainer{
+      flex-direction: column;
+      gap: 10px;
+      width: 100%;
+      margin: 5px;
+    }
+    .container2{
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      height: auto;
+    }
+    .container2-menu{
+      font-size: 40px;
+      width: 90%;
+      height: 90%;
+    }
+    .container3{
+      margin-top: 40px;
+      display: flex;
+      width: 100%;
+     height: auto;
+      gap: 10px;
+    }
+    .container3 img{
+      width: 100%;
+      margin-top: 30px;
+      height: auto;
+      margin-bottom: 20px;
+    }
+    .container3-head{
+      font-size: 40px;
+  text-align: center;
+    }
+    .container4{
+      display: flex;
+      flex-direction: column;
+      width: 90%;
+      height: auto;
+      margin-left: 6px;
+    }
+    .container4 img{
+      width: 95%;
+      height: auto;
+    }
+    .container5{
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-left: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+
+    }
+    .container-div1{
+      width: 95%;
+      height: auto;
+    }
+    .container5-div2{
+      width: 100%;
+      height: auto;
+      margin-left: 0px;
+      margin-right: 10px;
+    }
+    .container5 img{
+      margin-left: 0px;
+      margin-right: 0px;
+      padding-left: 10px;
+      width: 100%;
+    }
+    .container5-div2 p{
+        font-size: 20px;
+        margin-right: 20px;
+    }
+    .container6-head{
+      margin-top: 800px;
+      font-family: 22px;
+    }
+    .container6{
+      margin-top: 150px;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: auto;
+      margin-left: 2px;
+      margin-top: 10px;
+    }
+    .container6 p{
+      font-size: 20px;
+    }
+    .container7{
+      display: flex;
+      flex-direction: column;
+      margin-left: 0px;
+      
+    }
+    .container7-innerdiv{
+      width: 100%;
+      height: auto;
+    }
+    .container7-innerdiv img{
+      width: 100%;
+      height: auto;
+    }
+    .container7-innerdiv p{
+      font-size: 20px;
+    }
+    .container8{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: auto;
+      margin-left: 0px;
+      gap: 20px;
+    }
+    .container8-innerdiv{
+      width: 95%;
+      margin-right: 20px;
+      height: auto;
+      border: none;
+      padding: calc(10px+5%);
+
+    }
+    .container8-innerdiv h1{
+      text-align: calc(2vw+20px);
+    }
+    .container9{
+      display: flex;
+      flex-direction: column;
+      margin-left: 0px;
+      width: 100%;
+      height: auto;
+      margin-top: -40px;
+    }
+    .container9-innerdiv{
+     width: 100%;
+     height: auto;
+     margin-left: 0px;
+    }
+
+    .container9-innerdiv img{
+      width: 90px;
+      height: auto;
+    }
+    .container9-innerdiv-div-p{
+      margin-left: 3px;
+      font-size: 25px;
+      margin-left: 0px;
+    }
+    .container9-innerdiv p{
+      font-size: 25px;
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+    .container9-innerdiv2{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: auto;
+      padding-left: 0px;
+      align-items: center;
+    }
+    .container9-innerdiv3-img{
+      width: 100%;
+      height: auto;
+      margin-right: 0px;
+      
+    }
+    .footer{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: auto;
+    }
+    .footer-div{
+      margin-left: 9px;
+    }
+    
+    
+    
+  }
